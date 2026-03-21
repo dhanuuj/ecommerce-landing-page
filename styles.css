@@ -28,7 +28,7 @@ body {
 }
 
 #hero_section {
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(source/intro.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(images/intro.jpg);
     height: 80vh;
     background-position: center;
     display: flex;
